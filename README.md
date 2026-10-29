@@ -1,4 +1,4 @@
-# magallon-25
+# magallon25
 #hola! soy Mario 
 ## sobre mi
 - 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica
